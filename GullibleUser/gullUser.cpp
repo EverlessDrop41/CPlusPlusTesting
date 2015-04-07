@@ -1,5 +1,5 @@
 /*******************************************
-* Gullible User C++ Program By Tom P.      *
+* Gullible User C++ Program     *
 * Ask the user to not input the number     *
 * number of times the loop has run         *
 ********************************************/
